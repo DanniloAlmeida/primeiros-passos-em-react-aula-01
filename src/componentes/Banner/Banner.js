@@ -1,6 +1,6 @@
 import './Banner.css'
 
-function Banner() {
+export const Banner = () => {
 
     return (
 
@@ -12,4 +12,3 @@ function Banner() {
 
 }
 
-export default Banner
